@@ -1,0 +1,3 @@
+use('todoapp');
+
+db.dropDatabase()
