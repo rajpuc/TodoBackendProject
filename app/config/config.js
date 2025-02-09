@@ -17,5 +17,5 @@ export const URL_ENCODE=true;
 export const REQUEST_LIMIT_TIME=20*60*1000;
 export const REQUEST_LIMIT_NUMBER=2000;
 
-export const MY_EMAil = "basiceconomics.be@gmail.com";
-export const MY_EMAil_PASS = "hxlr gide rlzy wvql";
+export const MY_EMAil = "";
+export const MY_EMAil_PASS = "";
